@@ -1,0 +1,6 @@
+{
+  "name": "NodeMCU LED Controller",
+  "description": "Wi-Fi controller for the built-in LED on NodeMCU ESP8266 ESP-12E development boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
